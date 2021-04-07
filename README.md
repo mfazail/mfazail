@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mfazail
+- 👋 Hi, I’m Fazail Alam
 - 👀 I’m interested in mobile and web development.
 - 🌱 I’m currently learning flutter and laravel.
 - 💞️ I’m looking to collaborate on Flutter development.
