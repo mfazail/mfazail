@@ -1,83 +1,3 @@
-
-Tutorial 📖
-Twitter 🐦
-LinkedIn 👨‍💻
-
-Select Page
-Home
-Generate README
-Chose Github Stats Card Type
-type-2
-Select theme for Joke Card
-default
-Github Profile README Generator
-GitHub stars
-
-Fill in the text boxes and click on Generate README
-Name
-Fazail Alam
-Twitter
-mfazail_alam
-Github UserID
-mfazail
-Portfolio
-https://fazail-alam.web.app
-Linkedin userID
-Medium URL
-https://mfazail.medium.com
-Please replace st.beta_columns with st.columns.
-
-st.beta_columns will be removed after 2021-11-02.
-
-I am currently working on
-My youtube channel
-I am currently learning
-Flutter, Vuejs 
-I am looking to collaborate on
-Flutter or laravel
-talk to me about
-Flutter, laravel, vuejs
-Select Skills
-javascript
-sqlite
-flutter
-android
-firebase
-tailwind
-vuejs
-laravel
-hive
-youtube
-Wakatime User ID
-What is Wakatime and how do I get my user ID?
-Please replace st.beta_expander with st.expander.
-
-st.beta_expander will be removed after 2021-11-02.
-
-
-How to display my latest blog posts?
-Please replace st.beta_expander with st.expander.
-
-st.beta_expander will be removed after 2021-11-02.
-
-
-Enter Banner Image to be added at the top of the README
-https://fazail-alam.web.app/asset/me.jpg
-Enter Image witdh (include units % or px)
-165px
-Enter Image height (include units % or px)
-300px
-Please replace st.beta_columns with st.columns.
-
-st.beta_columns will be removed after 2021-11-02.
-
-Getting Image URL
-Please replace st.beta_expander with st.expander.
-
-st.beta_expander will be removed after 2021-11-02.
-
-Download README
-
 <div align="center">
 <img width="165px" height = "300px" src="https://fazail-alam.web.app/asset/me.jpg" alt="cover" />
 </div>
@@ -140,8 +60,6 @@ Download README
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
 
-<br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
 <!---
 mfazail/mfazail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
