@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://fazail-alam.web.app](https://fazail-alam.web.app)
 
-- 📝 I regularly write articles on [https://mfazail.medium.com](https://mfazail.medium.com)
+- 📝 I regularly write articles on [https://codef.site](https://codef.site)
 
 - 💬 Ask me about **Flutter, laravel, vuejs**
 
@@ -27,6 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codef.site" target="blank"><img align="center" src="https://codef.site/icons/512.png" alt="Codef Blog" height="30" width="40" /></a>
 <a href="https://codepen.io/mfazail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mfazail" height="30" width="40" /></a>
 <a href="https://dev.to/mfazail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mfazail" height="30" width="40" /></a>
 <a href="https://twitter.com/mfazail_alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mfazail_alam" height="30" width="40" /></a>
