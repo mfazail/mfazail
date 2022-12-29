@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on making [Brandbird](https://brandbird-clone-ts.vercel.app/) clone.<br><br>🌱 I’m currently learning Nuxt, Laravel and Astrojs.<br><br>🤝 I’m looking to collaborate on Nuxt | Astrojs<br><br>👨‍💻 All of my projects are available at [Github](https://github.com/mfazail)<br><br>📝 I regularly write articles on my [Blog](https://codef.site)<br><br>💬 Ask me about Flutter, laravel, vuejs<br><br>📫 How to reach me fazailalam898@gmail.com
+🔭 I’m currently working on making [Brandbird](https://brandbird-clone.netlify.app/) clone.<br><br>🌱 I’m currently learning Nuxt, Laravel and Astrojs.<br><br>🤝 I’m looking to collaborate on Nuxt | Astrojs<br><br>👨‍💻 All of my projects are available at [Github](https://github.com/mfazail)<br><br>📝 I regularly write articles on my [Blog](https://codef.site)<br><br>💬 Ask me about Flutter, laravel, vuejs<br><br>📫 How to reach me fazailalam898@gmail.com
 
 
 ## 🌐 Socials:
