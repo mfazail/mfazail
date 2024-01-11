@@ -17,3 +17,7 @@ I’m currently building a site to show all important urls at one place(somethin
 | Text to handwriting | Vue | [Link](https://github.com/mfazail/text-to-handwriting) | text to handwriting, vue |
 | Notes kit | Sveltekit | [Link](https://github.com/mfazail/notes-kit) | notes, online code playground, python, sql,sveltekit |
 | Vue quick notes | Vue | [Link](https://github.com/mfazail/vue-quick-notes) | notes, vue, admin panel notes, sticky notes |
+
+### 📃Learning
+
+- [Tic-tac-toe](https://github.com/mfazail/tic-tac-toe) - A react project from which i learned about useState, making custom hooks, useEffect, props, click events in react.
