@@ -12,6 +12,7 @@ I’m currently learning react and php.
 
 | Name | Framework | Repo | Tags |
 |-|-|-|-|
+| imgsrc clone | Nextjs | [Link](https://github.com/mfazail/imgsrc-clone) | react, nextjs, shadcn/ui, imgsrc, og image generator |
 | Url Shortner | Laravel | [Link](https://github.com/mfazail/url-shortner) | url shortner, filament-php, laravel, livewire |
 | Snip it | Sveltekit(Website) | [Link](https://github.com/mfazail/snip-it) | vs code extension, vs code snippet, sveltekit |
 | Text to handwriting | Vue | [Link](https://github.com/mfazail/text-to-handwriting) | text to handwriting, vue |
