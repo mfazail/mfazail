@@ -1,5 +1,5 @@
 
-I’m currently building a site to show all important urls at one place(something like linktr.ee,bio.link,etc)
+I’m currently learning react and php.
 
 📃You can read blogs [here](https://dev.to/mfazail) or [hashnode](https://blog.mfazail.com) that i explore and write about different frameworks.
 
