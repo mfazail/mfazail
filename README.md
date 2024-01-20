@@ -22,3 +22,4 @@ I’m currently building a site to show all important urls at one place(somethin
 
 - [Tic-tac-toe](https://github.com/mfazail/tic-tac-toe) - A react project from which i learned about useState, making custom hooks, useEffect, props, click events in react.
 - [Advanced todo](https://github.com/mfazail/advanced-todo) - Second project where i learned about useReducer, useContext, provider structure, and overview of shadcn/ui.
+- [imgsrc clone](https://github.com/mfazail/imgsrc-clone) - Project 3, topics - server/client component, useMemo, dynamic template loading, complex state management.
