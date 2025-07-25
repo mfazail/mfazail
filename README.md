@@ -24,3 +24,7 @@ I’m currently learning react and php.
 - [Tic-tac-toe](https://github.com/mfazail/tic-tac-toe) - A react project from which i learned about useState, making custom hooks, useEffect, props, click events in react.
 - [Advanced todo](https://github.com/mfazail/advanced-todo) - Second project where i learned about useReducer, useContext, provider structure, and overview of shadcn/ui.
 - [imgsrc clone](https://github.com/mfazail/imgsrc-clone) - Project 3, topics - server/client component, useMemo, dynamic template loading, complex state management.
+
+### Desktop env
+<img width="1920" height="1080" alt="screenshot_25072025_194231" src="https://github.com/user-attachments/assets/a5699598-b4ac-41b0-a41d-8b12e1a50e51" />
+
